@@ -1,0 +1,5 @@
+Scope 1, 2, and 3 GHG Emissions Performance: file:///etc/passwd  
+GHG Reduction Target: file:///etc/hostname  
+Waste Diversion Rate Target (%): file:///etc/hosts  
+Gender Diversity Target (%) at the Leadership Level: file:///var/www/html/.env  
+Assessment of Current Pay Equity and Inclusive Hiring Practices: file:///proc/self/environ  
